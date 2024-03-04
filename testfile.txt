@@ -3,3 +3,5 @@ this is a test file
 clone successful
 
 test modificaiton and push
+
+Testing after reopen
