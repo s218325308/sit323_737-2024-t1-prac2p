@@ -1,0 +1,24 @@
+
+{
+  "name": "sit737-2021-t1-prac",
+  "version": "1.0.0",
+  "description": "sit 737 T1 week 2 prac",
+  "main": "server.js",
+  "scripts": {
+      "start": "node server_get.js"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2.git"
+  },
+  "author": "Andrew Duffy",
+  "license": "MIT",
+  "bugs": {
+      "url": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/ChoudharyNavit22/sit725-2021-t2-prac2#readme",
+  "dependencies": {
+      "express": "^4.18.3"
+  }
+}
+
